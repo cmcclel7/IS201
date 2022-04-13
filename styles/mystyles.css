@@ -1,0 +1,42 @@
+.h4_custom {
+    font-weight: normal;
+    font-size: 12px;
+  }
+  .custom_TOC {
+    font-weight: normal;
+    font-size: 24px;
+    text-decoration: underline;
+  }
+  .education_header{
+    font-weight: 600;
+  }
+  .contact_box{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-weight: normal;
+    font-size: 24px;
+    text-align: center;
+  }
+  .t_header{
+    height: 70px;
+    width: 100%;
+    background-color: lightcoral;
+    border-radius: 15px;
+    text-align: center;
+    vertical-align: middle;
+    line-height: 100px;
+  }
+  .header_text{
+    position: relative;
+    bottom: 30%;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-left: 5px;
+    margin-right: 5px;
+    font-size: 22px;
+    text-decoration: none;
+  
+  }
+  .main_t{
+    
+    background-color: snow;
+    margin: 40px;
+  }
